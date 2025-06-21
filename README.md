@@ -21,8 +21,8 @@ To run this calculator on your local machine, follow these steps:
 
 ## Features
 
-* [List any features, e.g., basic arithmetic operations]
-* ...
+* [can do +, -, *, /]
+* [can tell you if its invalid]
 
 ---
 **Developed by Hasan Mrisat**
