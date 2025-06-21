@@ -1,7 +1,12 @@
 ## How to Run
 
-To run this calculator on your local machine, follow these steps:
+To run this calculator on your local machine, follow one of these methods:
+**Method 1:**
+1 . Copy&Paste the code to your own local coding app that could run python
 
+2. Run The Code
+
+   **Method 2:**
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/7asan-mrisat/python-calculator.git](https://github.com/7asan-mrisat/python-calculator.git)
